@@ -11,6 +11,7 @@ export default function App() {
   return (
     <div>
       <TaskList />
+      <TaskForm />
     </div>
   );
 }
